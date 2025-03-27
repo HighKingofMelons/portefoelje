@@ -1,4 +1,4 @@
 baseURL = 'https://highkingofmelons.github.io/portefoelje'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'da-dk'
+title = "Mikkel Hansen's Portefølje"
 theme = 'hugo-bearblog'

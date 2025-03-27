@@ -1,5 +1,8 @@
 ---
 title: Home
 ---
+---
 
-Testdsdasfdsfd
+En portfølje til skolearbejde inden for:
+- Webudvikling
+- Testing
