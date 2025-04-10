@@ -3,9 +3,7 @@ title: Logbog
 menu: main
 ---
 
----
-
-Onsdag 26. mar
+Onsdag 26. Mar
 ==============
 ### Dagsorden:
 - [x] Opstil portefølje
@@ -16,7 +14,7 @@ Opstillede portefølje siden ved brug af [Hugo](https://gohugo.io/) samt [Hugo B
 
 ---
 
-Torsdag 27. mar
+Torsdag 27. Mar
 ===============
 ### Dagsorden: 
 - [x] Vær på skolen senest kl. 12
@@ -31,7 +29,7 @@ Opstillede et dev environment via en [toolbox](https://containertoolbx.org/) con
 
 ---
 
-Næste Dag
+Mandag 31. Mar
 =========
 ### Dagsorden: 
 - [ ] Undersøg automatiseret Webapi testing (Måske [Bruno](https://usebruno.com))
