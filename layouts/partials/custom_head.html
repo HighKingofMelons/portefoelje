@@ -1,1 +1,16 @@
-<link rel="stylesheet" href="{{ "css/styles.css" | relURL }}">
+<style type="text/css">
+  @view-transition {
+    navigation: auto;
+  }
+  
+  @media (prefers-color-scheme: dark) { 
+    .highlight {
+      --code-background-color: #202020;
+    }
+    {{ partial "css/syntax-dark.css" . | safeCSS }}
+  }
+  @media (prefers-color-scheme: light) { 
+    {{ partial "css/syntax-light.css" . | safeCSS }} 
+  }
+  <!-- Stolen from: https://bwiggs.com/posts/2021-08-03-hugo-syntax-highlight-dark-light/  -->
+</style>

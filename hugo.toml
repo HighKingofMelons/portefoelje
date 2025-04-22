@@ -2,3 +2,7 @@ baseURL = 'https://highkingofmelons.github.io/portefoelje'
 languageCode = 'da-dk'
 title = "Mikkel Hansen's Portefølje"
 theme = 'hugo-bearblog'
+
+[markup]
+  [markup.highlight]
+    noclasses = false
